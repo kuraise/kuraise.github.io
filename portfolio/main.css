@@ -15,3 +15,27 @@ body {
     display: block;
     width: 50%;
 }
+
+#name{
+    line-height: 15px;
+    text-align: center;
+    color: white;
+}
+
+#title {
+    line-height: 15px;
+    text-align: center;
+    color: gray;
+}
+
+#ABTmeHeader{
+    color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.ABTmeP{
+    color: gray;
+    margin-left: 15%;
+    margin-right: 15%;
+}
